@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: andrejs.serebrjakovs@arcsystems.lv
     linkedin: andrejs-serebrjakovs
-    github: serebryak0v
+    github: serebrjakovs
     goodreads: # Number-Username, e.g. 123456-alandoe
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
@@ -28,10 +28,10 @@ sidebar:
           level: Professional
 
         - idiom: Latvian
-          level: Professional
+          level: Native (Billingual)
 
         - idiom: Russian
-          level: Native
+          level: Native (Billingual)
 
     interests:
       title: Interests
@@ -133,7 +133,7 @@ experiences:
 
           Other technologies used: **Microsoft Azure, Azure DevOps, Octopus Deploy, Terraform, JetBrains TeamCity**
 
-          - During various periods I have participated in different smaller scaler projects like client registry, address search registry, email encryption service, 
+          - During various periods I have participated in different smaller scale projects like client registry, address search registry, email encryption service, 
           large scale system maintenance.
 
 skills:
@@ -201,8 +201,8 @@ skills:
       - title: Other tools
         skills:
           - name: HTML
-            level: 90%
+            level: 80%
           - name: CSS
-            level: 90%
+            level: 80%
 
 footer:
